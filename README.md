@@ -68,7 +68,7 @@ Excel-GS 是一个基于 VBA 的 Excel 插件，集成了 OpenAI（或兼容 API
 
 ## 致谢
 
-- [OpenAI](https://openai.com/)
+- [pollinations](https://pollinations.ai/)
 - [VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
 
 ---

@@ -75,4 +75,4 @@ Excel-GS 是一个基于 VBA 的 Excel 插件，集成了 OpenAI（或兼容 API
 
 ## License
 
-本项目仅供学习与交流，禁止用于商业用途。API Key 请妥善保管，避免
+本项目仅供学习与交流，及个人使用。API Key 请妥善保管，避免
